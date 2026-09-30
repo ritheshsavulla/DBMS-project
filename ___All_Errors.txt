@@ -1,0 +1,10 @@
+CorrelationId: 436e3c57-ab38-456a-8d57-5aaa7ed8ebed
+UTC DateTime: 09/24/2026 07:06:11
+
+The following files/folders have not been downloaded
+0. enterprise-banking-frontend/node_modules/@babel/helper-module-imports
+1. enterprise-banking-frontend/node_modules/@eslint/config-array/dist/esm
+2. enterprise-banking-frontend/node_modules/caniuse-lite/data/features/wasm-reference-types.js
+3. enterprise-banking-frontend/node_modules/caniuse-lite/data/features/wasm-relaxed-simd.js
+4. enterprise-banking-frontend/node_modules/caniuse-lite/data/features/wasm-signext.js
+5. enterprise-banking-frontend/node_modules/fdir/dist
